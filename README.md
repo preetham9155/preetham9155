@@ -26,9 +26,9 @@
 ### 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL--300-Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="assets/az900.png" alt="AZ-900 Azure Fundamentals" width="150" />
+  <img src="assets/pl300.png" alt="PL-300 Power BI Data Analyst" width="150" />
+  <img src="assets/dp600.png" alt="DP-600 Fabric Analytics Engineer" width="150" />
 </p>
 
 <p align="center">
@@ -71,6 +71,8 @@
 
 ---
 
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -87,7 +89,7 @@
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/preetham9155">
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="profile views" />
   </a>
 </p>
